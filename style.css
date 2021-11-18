@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: lightblue;
+}
+div {
+  margin-top: 15px;
+  justify-content: center;
+}
+.image-section {
+  display: flex;
+  justify-content: center;
+}
+.section-style {
+  margin-right: 25px;
+  margin-left: 25px;
+  background: white;
+}
